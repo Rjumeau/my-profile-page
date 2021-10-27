@@ -82,6 +82,12 @@ body {
     color: black;
 }
 
+.list-inline i {
+  font-size: 40px;
+  text-decoration:none
+
+}
+
   #footer {
     padding: 10px;
   }
